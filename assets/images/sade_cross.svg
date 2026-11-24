@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="980" viewBox="0 0 800 980">
+  <title>sade_cross.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <polygon points="290,24 510,24 510,490 735,490 735,720 510,720 510,956 290,956 290,720 65,720 65,490 290,490" fill="none" stroke="#171717" stroke-width="4"/>
+    <text transform="matrix(3.762 0 0 8.519 65 668.901)" x="0" y="0" xml:space="preserve" font-family="&apos;Cambria Math&apos;, serif" font-size="27" fill="#000000"><tspan x="0" y="0">1740</tspan></text>
+    <text transform="matrix(3.762 0 0 8.519 510 668.901)" x="0" y="0" xml:space="preserve" font-family="&apos;Cambria Math&apos;, serif" font-size="27" fill="#000000"><tspan x="0" y="0">1814</tspan></text>
+    <g>
+      <line x1="318.827" y1="123.441" x2="318.827" y2="187.077" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="335.771" y1="123.441" x2="335.771" y2="187.077" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="352.715" y1="123.441" x2="352.715" y2="187.077" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="369.659" y1="123.441" x2="369.659" y2="187.077" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="302.548" y1="126.553" x2="386.115" y2="183.846" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+    </g>
+    <g>
+      <line x1="430.164" y1="187.077" x2="430.164" y2="250.712" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="447.108" y1="187.077" x2="447.108" y2="250.712" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="464.052" y1="187.077" x2="464.052" y2="250.712" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="480.996" y1="187.077" x2="480.996" y2="250.712" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="413.885" y1="190.189" x2="497.452" y2="247.482" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+    </g>
+    <g>
+      <line x1="343.489" y1="267.619" x2="343.489" y2="331.255" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="360.433" y1="267.619" x2="360.433" y2="331.255" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="377.377" y1="267.619" x2="377.377" y2="331.255" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="394.321" y1="267.619" x2="394.321" y2="331.255" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="327.21" y1="270.731" x2="410.777" y2="328.024" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+    </g>
+    <g>
+      <line x1="410.6" y1="354.709" x2="410.6" y2="418.345" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="427.544" y1="354.709" x2="427.544" y2="418.345" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="444.488" y1="354.709" x2="444.488" y2="418.345" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="461.432" y1="354.709" x2="461.432" y2="418.345" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="394.321" y1="357.821" x2="477.888" y2="415.115" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+    </g>
+    <g>
+      <line x1="327.21" y1="441.8" x2="327.21" y2="505.435" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="344.154" y1="441.8" x2="344.154" y2="505.435" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="361.098" y1="441.8" x2="361.098" y2="505.435" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="378.043" y1="441.8" x2="378.043" y2="505.435" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+      <line x1="310.931" y1="444.911" x2="394.498" y2="502.205" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+    </g>
+    <line x1="436.105" y1="473.617" x2="436.105" y2="537.253" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+    <line x1="446.105" y1="473.617" x2="446.105" y2="537.253" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+  </g>
+</svg>

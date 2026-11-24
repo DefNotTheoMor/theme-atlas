@@ -1,0 +1,17 @@
+testing/
+__pycache__/
+
+*.typ.txt
+*.bib.txt
+*.pdf
+*.typ.md
+*.png
+*.jpg
+*.html
+*.epub
+*.fb2
+*.rtf
+
+Атлас.md
+Атлас.rtf
+Атлас.txt
