@@ -23,7 +23,7 @@
   #align(center + horizon)[
     #text(size: 1cm, font: "Montserrat", weight: 500)[АТЛАС] \
     #s_author \u{2E31} `v0.1.0` \u{2E31} 2026 \
-    #link("https://github.com")[#text(fill: black)[github.com]] // Ссылка на репозиторий книги
+    #link("https://github.com/DefNotTheoMor/theme-atlas")[#text(fill: black, size: 0.75em)[`github.com/DefNotTheoMor/theme-atlas`]] // Ссылка на репозиторий книги
 
     #place(right + top)[#image("assets/images/mark.svg", width: 2cm)]
   ]
